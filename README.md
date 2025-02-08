@@ -1,13 +1,16 @@
 <h1>Hi 👋, I'm Barkha Barman</h1>
+
 <h2>A passionate Data Science enthusiast.</h2>
 
--🔭 I’m currently working on Earthquake Prediction using LSTM Deep Learning
+
+
+-🔭 I’m currently working on Earthquake Prediction using LSTM Deep Learning.
 
 -🌱 I’m currently learning Gen AI, LLM, RAG.
 
 -👨‍💻 All of my projects are available at https://barkha2025.github.io/
 
--💬 Ask me about Data Science
+-💬 Ask me about Data Science.
 
 -📫 How to reach me barkhabarman01@gmail.com
 <h2>🚀 Languages and Tools I Use</h2>
